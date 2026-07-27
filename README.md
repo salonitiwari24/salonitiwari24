@@ -70,22 +70,6 @@ I enjoy building AI-powered applications, scalable full-stack systems, and machi
 
 <div align="center">
 
-## GitHub Statistics
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=salonitiwari24&show_icons=true&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=ffffff&border_color=EF93C4"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonitiwari24&layout=compact&theme=transparent&title_color=EF93C4&text_color=ffffff&border_color=EF93C4"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=salonitiwari24&theme=transparent&border=EF93C4&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=salonitiwari24&bg_color=0D1117&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true"/>
