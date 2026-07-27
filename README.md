@@ -1,11 +1,9 @@
 ## Hi there 👋
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F0F0F,30:7B2CBF,70:C77DFF,100:EF93C4&text=Saloni%20Tiwari&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=AI%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=58&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F8BBD0,35:EF93C4,70:C77DFF,100:7B2CBF&text=Saloni%20Tiwari&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=AI%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=58&animation=fadeIn">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EF93C4,100:C77DFF&text=Saloni%20Tiwari"/>
-</picture>
+<p align="center">
+  <img src="assets/header-dark.png" alt="Saloni Tiwari Banner" width="100%">
+</p>
 
 # Hey there, I'm Saloni Tiwari (˶ᵔ ᵕ ᵔ˶)
 
