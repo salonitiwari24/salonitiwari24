@@ -11,13 +11,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=EF93C4&center=true&vCenter=true&width=850&lines=AI+Engineer;Open+Source+Contributor;Building+AI%2C+ML+%26+Full+Stack+Projects" />
 
-<br>
-
-<img src="https://img.shields.io/github/followers/salonitiwari24?style=for-the-badge&color=EF93C4&labelColor=1A1A1A"/>
-<img src="https://img.shields.io/github/stars/salonitiwari24?affiliations=OWNER&style=for-the-badge&color=C77DFF&labelColor=1A1A1A"/>
-<img src="https://komarev.com/ghpvc/?username=salonitiwari24&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS"/>
-
-</div>
 
 ---
 
