@@ -7,10 +7,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EF93C4,100:C77DFF&text=Saloni%20Tiwari"/>
 </picture>
 
-# Hey there, I'm Saloni Tiwari
+# Hey there, I'm Saloni Tiwari (˶ᵔ ᵕ ᵔ˶)
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=EF93C4&center=true&vCenter=true&width=850&lines=AI+Engineer;Open+Source+Contributor;Building+AI%2C+ML+%26+Full+Stack+Projects" />
-
 
 ---
 
